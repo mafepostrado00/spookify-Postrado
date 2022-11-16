@@ -69,7 +69,7 @@ p {
 }
 
 .logo {
-  font-size: 2.6rem;
+  font-size: 26px;
 }
 
 /* Colors */
@@ -173,7 +173,6 @@ a {
   display: inline-block;
   text-decoration: none;
   text-align: center;
-  font-weight: lighter;
   font-size: 18px;
   font-weight: bold;
   background-color: #24126a;
@@ -372,4 +371,6 @@ a {
 
 .copyright {
   padding-bottom: 10px;
+  color: #fffafb;
+  font-size: 18px;
 }
