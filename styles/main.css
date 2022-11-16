@@ -350,14 +350,14 @@ a {
 
 .endpage-message {
   text-align: center;
-  margin-right: 30px;
+  margin-right: 25px;
   font-weight: bolder;
 }
 
 .textbox {
   height: 35px;
   width: 300px;
-  margin: 20px;
+  margin: 5px;
 }
 
 .submit {
