@@ -140,7 +140,7 @@ a {
 .hero {
   padding: 0 10%;
   display: flex;
-  flex-direction: row-reverse;
+  flex-direction: row;
   justify-content: space-between;
 }
 
