@@ -74,7 +74,7 @@ p {
 
 /* Colors */
 
-.text--neutral--white {
+.text-neutral--white {
   color: #fffafb;
 }
 
@@ -297,7 +297,6 @@ a {
 .top_authors {
   margin: 5% 0;
   text-align: center;
-  color: #24126a;
   font-size: 32px;
 }
 
@@ -353,7 +352,6 @@ a {
 .endpage-message {
   text-align: center;
   margin-right: 30px;
-  font-size: 64px;
   font-weight: bolder;
 }
 
@@ -374,6 +372,4 @@ a {
 
 .copyright {
   padding-bottom: 10px;
-  color: #fffafb;
-  font-size: 18px;
 }
